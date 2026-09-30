@@ -9,5 +9,5 @@ function obtenerIniciales(nombreCompleto) {
 
 console.log(obtenerIniciales("Jose Francisco Franciscano"));
 console.log(obtenerIniciales("Leonardo Lopez Vargas"));
-console.log(obtenerIniciales("El josé"));
+console.log(obtenerIniciales("El                                         josé"));
 console.log(obtenerIniciales(""));
